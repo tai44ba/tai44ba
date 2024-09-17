@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Taishi 
+### I am a Full Stack Web Developer
 
-I am Tashi
 I am currently learning full stack web development(MERN stack) at DCI (Digital Career Institute in Berlin)
 
 
